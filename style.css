@@ -58,3 +58,13 @@ footer {
     background-color: #e5e5e5;
     padding: 12px;
 }
+
+#home {
+    position: relative;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
